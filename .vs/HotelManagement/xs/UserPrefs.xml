@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{11CE58E7-05D2-482C-9D6C-7AC2EC65C572}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HotelManagement/Admin/DashboardAreaRegistration.cs">
+    <Files>
+      <File FileName="HotelManagement/Models/AccomodationPackage.cs" Line="1" Column="1" />
+      <File FileName="HotelManagement/Models/User.cs" Line="1" Column="1" />
+      <File FileName="HotelManagement/Models/LoginViewModel.cs" Line="1" Column="1" />
+      <File FileName="HotelManagement/Models/HotelDbContext.cs" Line="1" Column="1" />
+      <File FileName="HotelManagement/Admin/DashboardAreaRegistration.cs" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HotelManagement" expanded="True">
+            <Node name="HotelManagement" expanded="True">
+              <Node name="Admin" expanded="True">
+                <Node name="Controllers" expanded="True" />
+                <Node name="DashboardAreaRegistration.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HotelManagement PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
